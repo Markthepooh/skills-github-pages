@@ -1,3 +1,4 @@
+theme : minima
 :root{--bg:#efe4cf;--card:#f8f0e0;--ink:#2b2023;--soft:#6b5a55;--pink:#e9a9a9;--mint:#a3c9ae;--line:#2b2023;
 box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 @media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#241c1e;--card:#2f2528;--ink:#f1e6d2;--soft:#b9a79c;--pink:#c98585;--mint:#7fa68b;--line:#f1e6d2}}
