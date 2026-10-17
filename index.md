@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="hu">
 <head>
 <meta charset="utf-8">
@@ -213,4 +212,3 @@ $("fcopy").onclick = copyMsg; $("figl").onclick = () => { copyMsg(); };
 </script>
 </body>
 </html>
-
